@@ -1,0 +1,16 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\bin\Debug\net5.0\AppTransferenciasBancarias.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\bin\Debug\net5.0\AppTransferenciasBancarias.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\bin\Debug\net5.0\AppTransferenciasBancarias.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\bin\Debug\net5.0\AppTransferenciasBancarias.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\bin\Debug\net5.0\AppTransferenciasBancarias.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\bin\Debug\net5.0\ref\AppTransferenciasBancarias.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\bin\Debug\net5.0\AppTransferenciasBancarias.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\obj\Debug\net5.0\AppTransferenciasBancarias.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\obj\Debug\net5.0\AppTransferenciasBancarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\obj\Debug\net5.0\AppTransferenciasBancarias.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\obj\Debug\net5.0\AppTransferenciasBancarias.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\obj\Debug\net5.0\AppTransferenciasBancarias.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\obj\Debug\net5.0\AppTransferenciasBancarias.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\obj\Debug\net5.0\ref\AppTransferenciasBancarias.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\obj\Debug\net5.0\AppTransferenciasBancarias.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\.NET C#\Bootcamp Everis .NET\AppTransferenciasBancarias\obj\Debug\net5.0\AppTransferenciasBancarias.genruntimeconfig.cache
